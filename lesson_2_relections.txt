@@ -1,0 +1,2 @@
+what happens when you initialize a repository? Why do you need to do it?
+This actually helps to start tracking the folder history. Using this allows you to track the changes from the past.
