@@ -1,2 +1,7 @@
 what happens when you initialize a repository? Why do you need to do it?
 This actually helps to start tracking the folder history. Using this allows you to track the changes from the past.
+
+
+how is the staging area different from working area and repository.
+This is a staging area as the name itself elaborates the concept.
+It is a platform between the two. 
