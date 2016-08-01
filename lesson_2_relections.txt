@@ -5,3 +5,18 @@ This actually helps to start tracking the folder history. Using this allows you 
 how is the staging area different from working area and repository.
 This is a staging area as the name itself elaborates the concept.
 It is a platform between the two. 
+
+how can you use the staging area to make sure you have one commit per logical change?
+we can by matching it agains the working diectory and then against the final commit as well.There should be no difference between the working and the staging area after this.And then, only one change should be there among the staging area and the latest commit.
+
+What are some situations when branches would be helpful in keeping your history organized? how would branhces help?
+Branches can be really helpful in multiple ways. One of the instance might be during testing out new fetures in the main project. Similarly, while trying to erase some bugs in the main branch.
+
+how do the diagrams help you visualize the branch structure?
+This actually helps us to visually determine and create new branches and commits based on our needs rather than reading all the commits and then deciding the creation of new branches.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is the yield of one branch label with all the changes from both the branches joined together.
+We represent it in the diagram to verify if this will result in any inaccessible nodes.
+And to get differences altogether in a list.
